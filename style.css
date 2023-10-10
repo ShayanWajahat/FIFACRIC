@@ -1,0 +1,11 @@
+table{
+    background-color: black;
+}
+tr{
+    width: 700;
+    background-color: grey;
+}
+.tr2{
+    background-color: lightgrey;
+    text-align: center;
+}
